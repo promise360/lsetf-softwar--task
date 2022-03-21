@@ -1,0 +1,33 @@
+.HeaderContain {
+    height:250px;
+    width: 100%;
+    /* background-color: black; */
+    color: white;
+}
+.Nav {
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+
+}
+.navlist {
+    display: flex;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    word-spacing: 20px;
+    font-size: 16pt;
+    width: 300px;
+
+
+    
+}
+.li {
+    display: inline-block;
+    padding: 10px 40px;
+}
+.Headimage {
+    font-size: 20pt;
+}
